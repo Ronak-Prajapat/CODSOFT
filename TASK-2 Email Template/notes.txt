@@ -1,1 +1,18 @@
+📂 Task 2: Email Template
+📄 File: Email Template.pdf
 
+✅ Design Overview:
+
+Created a welcome email for a photography service.
+Used Ronak Photography branding with a simple layout.
+"Get Started" button added for user engagement.
+Email content is concise & visually appealing.
+🛠 Tools Used: Figma
+📂 Files Included:
+
+Email Template.pdf (Email UI Design)
+🎨 UI Decisions:
+
+Consistent font & color scheme for professional look.
+Clear heading & CTA button for quick action.
+Responsive layout to ensure it looks good on all devices.
