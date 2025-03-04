@@ -1,1 +1,18 @@
+📂 Task 3: Restaurant Menu.pdf
+📄 File: Restaurant Menu (Figma Design)
 
+✅ Design Overview:
+
+Designed a modern and interactive restaurant menu UI.
+Categorized food items into Breakfast, Lunch, and Dinner.
+High-quality images used for a visually appealing experience.
+Order Now button for easy food ordering.
+🛠 Tools Used: Figma
+📂 Files Included:
+
+Restaurant Menu.pdf (Restaurent menu ui design)
+📌 UI/UX Features:
+
+Search bar for quick item lookup.
+Calories & delivery time displayed for better decision-making.
+Minimalist design with a warm color palette.
