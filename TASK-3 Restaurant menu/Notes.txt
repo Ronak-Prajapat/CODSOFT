@@ -8,9 +8,10 @@ Categorized food items under Non-Veg Menu.
 High-quality images used for a visually appealing experience.
 "Add to Cart" button for easy food ordering.
 🛠 Tools Used: Figma
+
 📂 Files Included:
 
-Restaurant Menu.pdf (Restaurent menu UI design)
+Restaurent Menu.pdf (Restaurent menu UI design)
 📌 UI/UX Features:
 
 Search bar for quick item lookup.
