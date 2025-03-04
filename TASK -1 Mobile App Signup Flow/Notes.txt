@@ -1,1 +1,18 @@
+📂 Task 1: Mobile App Signup Flow
+📄 File: Mobile App sign up flow.pdf
 
+✅ Design Overview:
+
+Created a simple and user-friendly signup & login page.
+Designed a clean UI with essential input fields.
+"Forgot Password" option added for easy recovery.
+Alternative login options (e.g., social media login) included.
+🛠 Tools Used: Figma
+📂 Files Included:
+
+Mobile App sign up flow.pdf (Signup & Login UI Design)
+👀 User Experience Considerations:
+
+Minimalist design to reduce user frustration.
+Clear call-to-action buttons (Login, Signup, Forgot Password).
+Proper spacing & typography for readability.
